@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/TheContinental2/static/css/main.bd602fb0.css",
-    "main.js": "/TheContinental2/static/js/main.9108d9c5.js",
+    "main.js": "/TheContinental2/static/js/main.024d66bd.js",
     "static/media/gougere.jpeg": "/TheContinental2/static/media/gougere.7a5519c77a8f85f447d2.jpeg",
     "static/media/fos.jpeg": "/TheContinental2/static/media/fos.5201a3a2e27a901549f8.jpeg",
     "static/media/restaurant.jpeg": "/TheContinental2/static/media/restaurant.f5004c4c0c3ec3518f31.jpeg",
@@ -26,10 +26,10 @@
     "static/media/car-service.jpeg": "/TheContinental2/static/media/car-service.259a90e826ed8e4a03ea.jpeg",
     "index.html": "/TheContinental2/index.html",
     "main.bd602fb0.css.map": "/TheContinental2/static/css/main.bd602fb0.css.map",
-    "main.9108d9c5.js.map": "/TheContinental2/static/js/main.9108d9c5.js.map"
+    "main.024d66bd.js.map": "/TheContinental2/static/js/main.024d66bd.js.map"
   },
   "entrypoints": [
     "static/css/main.bd602fb0.css",
-    "static/js/main.9108d9c5.js"
+    "static/js/main.024d66bd.js"
   ]
 }
